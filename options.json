@@ -5,11 +5,11 @@
     "options": [
       {
         "key": "hideShortsAppShortcut",
-        "value": "true"
+        "value": true
       },
       {
         "key": "hideShortsWidget",
-        "value": "true"
+        "value": true
       }
     ]
   }
